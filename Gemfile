@@ -8,6 +8,8 @@ gem 'rails', '~> 5.2.4', '>= 5.2.4.1'
 gem 'devise'
 gem 'hamlit'
 gem 'active_decorator'
+gem 'materialize-sass', '~> 1.0.0'
+gem 'material_icons'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
