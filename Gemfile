@@ -10,6 +10,10 @@ gem 'hamlit'
 gem 'active_decorator'
 gem 'materialize-sass', '~> 1.0.0'
 gem 'material_icons'
+gem 'simple_form'
+gem 'enumerize'
+gem 'jquery-rails'
+gem 'carrierwave', '~> 1.0'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
