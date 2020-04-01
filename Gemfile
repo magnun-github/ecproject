@@ -14,6 +14,7 @@ gem 'simple_form'
 gem 'enumerize'
 gem 'jquery-rails'
 gem 'carrierwave', '~> 1.0'
+gem 'hashid-rails', '~> 1.0'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
